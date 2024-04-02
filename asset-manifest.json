@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbd0f1da.css",
-    "main.js": "/static/js/main.fdafac05.js",
+    "main.css": "/static/css/main.c006626e.css",
+    "main.js": "/static/js/main.72d9e31a.js",
     "static/js/453.a250f54d.chunk.js": "/static/js/453.a250f54d.chunk.js",
+    "static/media/blog3.svg": "/static/media/blog3.40498d812dc2f995e0e11374c87ed2a2.svg",
+    "static/media/blog2.png": "/static/media/blog2.fa9b4b1dfb1f2e4b1cfd.png",
+    "static/media/blog1.png": "/static/media/blog1.fd52fd24d2e1a5c54f84.png",
     "static/media/phone.svg": "/static/media/phone.559c274be5e81be4b81d96dab82cbb74.svg",
     "static/media/custom.ttf": "/static/media/custom.06776535e36aa2d513e9.ttf",
     "static/media/gragh.png": "/static/media/gragh.b1ceaf232954ef7650b0.png",
     "static/media/bome.png": "/static/media/bome.854ea096b6c6d103796f.png",
+    "static/media/coin.svg": "/static/media/coin.7bdc7e1cf05551a6baf7e73f63783dfa.svg",
+    "static/media/tree.svg": "/static/media/tree.1f10ed244a57162660508ca4a889631a.svg",
     "static/media/confirm.svg": "/static/media/confirm.c8459113e44d5428e32b161fefc656fa.svg",
     "static/media/enter.svg": "/static/media/enter.c3d7886ea30d19069fbf501fba1ab79b.svg",
     "static/media/register-gift.svg": "/static/media/register-gift.5df73fbe38e52a6daa8dbdcc0f5c57ba.svg",
     "static/media/receive.svg": "/static/media/receive.b70d7bed73a8ff6503255ca413ad0b07.svg",
     "index.html": "/index.html",
-    "main.dbd0f1da.css.map": "/static/css/main.dbd0f1da.css.map",
-    "main.fdafac05.js.map": "/static/js/main.fdafac05.js.map",
+    "static/media/add.svg": "/static/media/add.c37f86f11d11ace629eb964d4cb5950b.svg",
+    "main.c006626e.css.map": "/static/css/main.c006626e.css.map",
+    "main.72d9e31a.js.map": "/static/js/main.72d9e31a.js.map",
     "453.a250f54d.chunk.js.map": "/static/js/453.a250f54d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbd0f1da.css",
-    "static/js/main.fdafac05.js"
+    "static/css/main.c006626e.css",
+    "static/js/main.72d9e31a.js"
   ]
 }
